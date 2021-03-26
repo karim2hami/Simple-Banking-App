@@ -7,3 +7,5 @@ The application has the functions of an ATM interface:
 - make a withdrawal from your account
 - view your previous transactions 
 - calculate interest for a defined amount of money from your account
+
+![image](https://user-images.githubusercontent.com/71875426/112600433-7e54b180-8e11-11eb-90ba-e064daa56c3e.png)
